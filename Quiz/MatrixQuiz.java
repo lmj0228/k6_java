@@ -14,7 +14,7 @@ public class MatrixQuiz {
 		int F[][] = new int[4][3];
 		// C = A * B   행렬 곱하기
 		// E = A + D   행렬 더하기
-		// F = A의 전치 행렬 
+		// F = A의 전치 행렬 ii
 
 
 		Random rnd = new Random();
